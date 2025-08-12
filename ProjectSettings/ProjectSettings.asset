@@ -707,7 +707,8 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   webGLPowerPreference: 2
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Standalone: BUILDING_MODULE;FLOORMAP_MODULE;INTERIOR_MODULE;ONLINE_MODULE
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
