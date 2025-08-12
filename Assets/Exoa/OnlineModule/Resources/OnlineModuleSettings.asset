@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d77e13f01cfa6084082c3e75c4e99010, type: 3}
   m_Name: OnlineModuleSettings
   m_EditorClassIdentifier: 
-  useOnlineMode: 0
-  scriptUrl: http://localhost/HomeDesigner/OnlineModule.php
+  useOnlineMode: 1
+  scriptUrl: http://54.172.112.93/HomeDesigner/OnlineModule.php

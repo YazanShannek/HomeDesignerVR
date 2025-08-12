@@ -29,6 +29,7 @@ namespace Exoa.Designer
 
         private void Awake()
         {
+      Debug.Log(Application.persistentDataPath);
             _instance = this;
             DontDestroyOnLoad(gameObject);
         }
